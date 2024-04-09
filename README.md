@@ -2,9 +2,11 @@
 
 
 I’m Rachit Arora, and I have a keen interest in Security Research and Cloud security. My profile is mainly red side.
-
 I’m currently an international graduate student @ University of Maryland, College Park studying M.Eng Cybersecurity. 
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Education
 
@@ -26,7 +28,6 @@ I’m currently an international graduate student @ University of Maryland, Coll
 > **CVE-2023-47184**
 
 * Auth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Proper Fraction LLC. Admin Bar & Dashboard Access Control plugin <= 1.2.8 versions. 
-<br>
 More information about CVE-2023-47184 <a href="https://www.cve.org/CVERecord?id=CVE-2023-47184" style="color:red;" rel="noopener">here</a> 
 
 
