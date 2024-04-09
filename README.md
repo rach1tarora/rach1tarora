@@ -4,7 +4,7 @@
 I’m Rachit Arora, and I have a keen interest in Security Research and Cloud security. My profile is mainly red side.
 I’m currently an international graduate student @ University of Maryland, College Park studying M.Eng Cybersecurity. 
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
