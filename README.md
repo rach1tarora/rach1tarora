@@ -6,6 +6,11 @@ I’m currently an international graduate student @ University of Maryland, Coll
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows System Programming: Fundamentals II](https://arorarachit.com/blog/windows-system-programming-fundamentals-2)
+- [Windows System Programming: Fundamentals I](https://arorarachit.com/blog/windows-system-programming-fundamentals)
+- [GNU Debugger- Fundamentals](https://arorarachit.com/blog/gdb-fundamentals)
+- [Windows Internals: Theory](https://arorarachit.com/blog/windows-internals-theory)
+- [Finding and reporting CVEs &amp;amp; what it actually teaches you](https://arorarachit.com/blog/cves)
 <!-- BLOG-POST-LIST:END -->
 
 ### Education
