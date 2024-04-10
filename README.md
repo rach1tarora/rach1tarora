@@ -4,7 +4,7 @@
 I’m Rachit Arora, and I have a keen interest in Security Research and Cloud security. My profile is mainly red side.
 I’m currently an international graduate student @ University of Maryland, College Park studying M.Eng Cybersecurity. 
 
-### Latest Blog posts
+### :bookmark_tabs: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Windows System Programming: Fundamentals II](https://arorarachit.com/blog/windows-system-programming-fundamentals-2)
 - [Windows System Programming: Fundamentals I](https://arorarachit.com/blog/windows-system-programming-fundamentals)
