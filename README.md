@@ -60,5 +60,5 @@ All certifications can be verified on credly <a href="https://www.credly.com/use
 
 
 
-![](https://komarev.com/ghpvc/?username=yrach1tarora&color=green)
+> ![](https://komarev.com/ghpvc/?username=yrach1tarora&color=green)
 
