@@ -17,6 +17,3 @@ I love security.
 
 > ![](https://komarev.com/ghpvc/?username=yrach1tarora&color=green)
 
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/rach1tarora/rach1tarora.github.io/blob/master/assets/images/minions-dance.gif?raw=true');]{x0000}$}
