@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I love security. 
+I do security. 
 
 
 ### :bookmark_tabs: Latest Blog posts
